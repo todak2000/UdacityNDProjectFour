@@ -1,0 +1,8 @@
+1. make sure you are in the root folder
+2. activate the virtual environment
+    source ~/.devops/bin/activate
+3. run 
+    make install
+    make lint
+
+make sure you have docker, hadolint and kubernetes installed
