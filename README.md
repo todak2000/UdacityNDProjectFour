@@ -58,7 +58,7 @@ source .devops/bin/activate
 [License](LICENSE.md)
 
 ### Circleci
-[![CircleCI](https://circleci.com/gh/cocofemi/udacity_ci-cd_project/tree/master.svg?style=svg)](https://circleci.com/gh/cocofemi/udacity_ci-cd_project/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/todak2000/UdacityNDProjectFour/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/todak2000/UdacityNDProjectFour/tree/main)
 
 
 
