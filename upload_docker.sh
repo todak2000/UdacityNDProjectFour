@@ -5,14 +5,14 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=todak2000/udacitycloudprojectfour
+dockerpath=todak2000/cloudprojectfour
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login -u todak2000
-docker image tag udacitycloudprojectfour $dockerpath
+docker tag cloudprojectfour $dockerpath
 
 # Step 3:
 # Push image to a docker repository
-docker image push $dockerpath
+docker push $dockerpath
