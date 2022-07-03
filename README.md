@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+### Circleci
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/todak2000/UdacityNDProjectFour/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/todak2000/UdacityNDProjectFour/tree/main)
 
 
 # Operationalize a Machine Learning Microservice API
@@ -57,8 +58,7 @@ source .devops/bin/activate
 
 [License](LICENSE.md)
 
-### Circleci
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/todak2000/UdacityNDProjectFour/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/todak2000/UdacityNDProjectFour/tree/main)
+
 
 
 
