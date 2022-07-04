@@ -8,3 +8,11 @@
 0     0  6.575  296.0     15.3  396.9   4.98
 [2022-07-04 17:06:39,412] INFO in app: Output prediction: [20.35373177134412]
 172.17.0.1 - - [04/Jul/2022 17:06:39] "POST /predict HTTP/1.1" 200 -
+
+NAME             READY   STATUS    RESTARTS   AGE
+cloudproject   1/1     Running   0          9m22s
+Forwarding from 172.17.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
+

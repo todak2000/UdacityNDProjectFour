@@ -9,6 +9,7 @@ note.txt
 # Distribution / packaging
 .Python
 build/
+hadolint
 develop-eggs/
 dist/
 downloads/
